@@ -6,10 +6,6 @@
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -30,25 +26,41 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Submit the following tickets from the user endpoint: Mobile banking is down, Accounting is having difficulty after an Adobe update, and the CFO's laptop is running slowly.
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img height="80%" width="80%" alt="Mobile banking ticket" src="https://i.imgur.com/KjJuG54.png">
+</p>
+<br />
+<p>
+<img height="80%" width="80%" alt="Accounting ticket" src="https://i.imgur.com/I5U4DXY.png">
+</p>
+<br />
+<p>
+<img height="80%" width="80%" alt="CFO laptop ticket" src="https://i.imgur.com/dxSuJn2.png">
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Log into osTicket to view the tickets.
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img height="80%" width="80%" alt="Tickets from agent login" src="https://i.imgur.com/Dt3ziAi.png">
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Modify the tickets to reflect the correct priority, assign departments, assign an agent, and assign an SLA.
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img height="80%" width="80%" alt="Ticket prior to adjustments from agent" src="https://i.imgur.com/QpMblKG.png">
 </p>
 <br />
+<p>
+<img height="80%" width="80%" alt="Ticket after adjustments from agent" src="https://i.imgur.com/XaAIT6O.png">
+</p>
+<br />
+
+<p>
+Document changes to the ticket and select "Resolve" when the ticket has been completed. 
+</p>
